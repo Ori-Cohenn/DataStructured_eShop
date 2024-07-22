@@ -1,0 +1,158 @@
+Thu Jan 12 20:31:22 2023 -  Items data has been loaded
+Thu Jan 12 20:33:58 2023 -  Items data has been loaded
+Thu Jan 12 20:34:50 2023 -  Employee logged in: admin
+Thu Jan 12 20:34:50 2023 -  Items data has been loaded
+Thu Jan 12 20:35:19 2023 -  New employee added: shon
+Thu Jan 12 20:36:26 2023 -  Employee logged in: admin
+Thu Jan 12 20:36:26 2023 -  Items data has been loaded
+Thu Jan 12 20:37:39 2023 -  Employee logged in: shon
+Thu Jan 12 20:37:39 2023 -  Items data has been loaded
+Thu Jan 12 20:37:44 2023 -  Items data has been loaded
+Thu Jan 12 20:41:07 2023 -  Employee logged in: shon
+Thu Jan 12 20:42:28 2023 -  Employee logged in: admin
+Thu Jan 12 20:42:50 2023 -  New employee added: bar
+Thu Jan 12 20:43:33 2023 -  Employee logged in: bar
+Thu Jan 12 21:00:43 2023 -  Employee logged in: admin
+Thu Jan 12 21:06:54 2023 -  New employee added: shon
+Thu Jan 12 21:08:49 2023 -  New employee added: bar
+Thu Jan 12 21:09:09 2023 -  New employee added: ori
+Thu Jan 12 21:10:55 2023 -  New employee added: haim
+Thu Jan 12 21:13:31 2023 -  New employee added: shon123123
+Thu Jan 12 21:15:21 2023 -  New employee added: simha
+Thu Jan 12 21:15:30 2023 -  New employee added: shlomo
+Thu Jan 12 21:19:06 2023 -  New employee added: bar
+Thu Jan 12 21:22:26 2023 -  Customer added
+Thu Jan 12 21:32:55 2023 -  Customer added
+Thu Jan 12 21:44:07 2023 -  Customer 1 bought item 7
+Thu Jan 12 21:44:50 2023 -  Customer 2 bought item 7
+Thu Jan 12 21:45:05 2023 -  Customer 1 bought item 7
+Thu Jan 12 21:45:38 2023 -  Customer added
+Thu Jan 12 21:45:46 2023 -  Customer 3 bought item 9
+Thu Jan 12 21:46:18 2023 -  the item Bose QuietComfort 35 II has been refunded by costumer ID -572662307
+Thu Jan 12 21:46:22 2023 -  the item Logitech K810 Bluetooth KeyboardKeyboards has been refunded by costumer ID -572662307
+Thu Jan 12 21:48:27 2023 -  the item Bose QuietComfort 35 II has been refunded by costumer ID -572662307
+Fri Jan 13 09:48:02 2023 -  Customer 1 bought item 7
+Fri Jan 13 09:50:22 2023 -  Item edited: Acer XR382CQK 37.5" Gaming monitComputer Monitors, ID: 26
+Fri Jan 13 09:50:43 2023 -  Customer 1 bought item 26
+Fri Jan 13 09:51:05 2023 -  Customer added
+Fri Jan 13 09:51:07 2023 -  Customer 2 bought item 26
+Fri Jan 13 09:54:14 2023 -  the item Acer XR382CQK 37.5" Gaming monitComputer Monitors has been refunded by costumer ID -572662307
+Fri Jan 13 09:54:25 2023 -  the item Acer XR382CQK 37.5" Gaming monitComputer Monitors has been refunded by costumer ID -572662307
+Fri Jan 13 09:54:59 2023 -  the item Bose QuietComfort 35 II has been refunded by costumer ID -572662307
+Fri Jan 13 09:56:18 2023 -  Customer 2 bought item 26
+Fri Jan 13 09:58:11 2023 -  Customer added
+Fri Jan 13 09:58:19 2023 -  Customer 1 bought item 26
+Fri Jan 13 10:01:42 2023 -  the item Acer XR382CQK 37.5" Gaming monitComputer Monitors has been refunded by costumer ID -572662307
+Fri Jan 13 10:14:44 2023 -  Customer 1 bought item 25
+Fri Jan 13 10:14:49 2023 -  Customer 1 bought item 25
+Fri Jan 13 10:14:54 2023 -  Customer 1 bought item 25
+Fri Jan 13 10:41:35 2023 -  Customer added
+Fri Jan 13 10:41:50 2023 -  Customer 1 bought item 26
+Fri Jan 13 10:43:23 2023 -  the item Acer XR382CQK 37.5" Gaming monitComputer Monitors has been refunded by costumer ID -572662307
+Fri Jan 13 10:46:10 2023 -  Customer 1 bought item 26
+Fri Jan 13 10:47:15 2023 -  the item Acer XR382CQK 37.5" Gaming monitComputer Monitors has been refunded by costumer ID -572662307
+Fri Jan 13 10:48:05 2023 -  Customer 1 bought item 26
+Fri Jan 13 10:50:20 2023 -  Customer 1 bought item 26
+Fri Jan 13 10:52:41 2023 -  Customer 1 bought item 26
+Fri Jan 13 10:55:03 2023 -  Customer 1 bought item 26
+Fri Jan 13 10:55:24 2023 -  Item Acer XR382CQK 37.5" Gaming monitComputer Monitors was refunded to customer -572662307
+Fri Jan 13 10:59:14 2023 -  Item Acer XR382CQK 37.5" Gaming monitComputer Monitors was refunded by the customer with the ID - 1
+Fri Jan 13 11:42:46 2023 -  Customer 1 bought item 26
+Fri Jan 13 11:43:08 2023 -  Item Acer XR382CQK 37.5" Gaming monitComputer Monitors was refunded by the customer with the ID - 1
+Fri Jan 13 11:57:22 2023 -  Customer 1 bought item 26
+Fri Jan 13 12:00:13 2023 -  Item Acer XR382CQK 37.5" Gaming monitComputer Monitors was refunded by the customer with the ID - 1
+Fri Jan 13 12:01:28 2023 -  Customer added
+Fri Jan 13 12:01:33 2023 -  Customer 1 bought item id 26
+Fri Jan 13 12:03:59 2023 -  Customer added
+Fri Jan 13 12:04:03 2023 -  Customer 1 bought item id 26
+Fri Jan 13 12:04:18 2023 -  Item Acer XR382CQK 37.5" Gaming monitComputer Monitors was refunded by the customer with the ID - 1
+Fri Jan 13 12:04:37 2023 -  Customer 1 bought item id 26
+Fri Jan 13 12:22:05 2023 -  New employee added: ori
+Fri Jan 13 12:42:03 2023 -  Customer 1 bought item id 22
+Fri Jan 13 12:42:19 2023 -  Customer 1 bought item id 22
+Fri Jan 13 12:44:13 2023 -  Customer added
+Fri Jan 13 12:44:16 2023 -  Customer 2 bought item id 22
+Fri Jan 13 12:44:41 2023 -  Customer 2 bought item id 22
+Fri Jan 13 12:44:54 2023 -  Customer added
+Fri Jan 13 12:45:24 2023 -  Customer 3 bought item id 9
+Fri Jan 13 12:51:24 2023 -  Customer added
+Fri Jan 13 12:51:33 2023 -  Customer 1 bought item id 2
+Fri Jan 13 12:51:38 2023 -  Customer 1 bought item id 2
+Fri Jan 13 12:51:42 2023 -  Customer 1 bought item id 2
+Fri Jan 13 12:59:27 2023 -  Item edited: JBL Flip 5, ID: 21
+Fri Jan 13 13:36:56 2023 -  Item edited: LG OLED CX TV, ID: 8
+Sat Jan 14 11:59:33 2023 -  Customer added
+Sat Jan 14 11:59:41 2023 -  Customer 2 bought item id 14
+Sat Jan 14 11:59:48 2023 -  Customer 2 bought item id 14
+Sat Jan 14 11:59:53 2023 -  Customer 2 bought item id 14
+Sat Jan 14 12:02:54 2023 -  Customer added
+Sat Jan 14 12:15:46 2023 -  Customer 1 bought item id 1
+Sat Jan 14 12:15:53 2023 -  Customer 1 bought item id 1
+Sat Jan 14 12:19:13 2023 -  Customer 1 bought item id 1
+Sat Jan 14 12:21:18 2023 -  Customer 2 bought item id 5
+Sat Jan 14 12:21:21 2023 -  Customer 2 bought item id 5
+Sat Jan 14 12:21:23 2023 -  Customer 2 bought item id 5
+Sat Jan 14 12:24:27 2023 -  Customer 1 bought item id 1
+Sat Jan 14 12:24:31 2023 -  Customer 1 bought item id 1
+Sat Jan 14 12:29:17 2023 -  Customer 3 bought item id 1
+Sat Jan 14 12:29:21 2023 -  Customer 3 bought item id 1
+Sat Jan 14 12:29:26 2023 -  Customer 3 bought item id 1
+Sat Jan 14 12:29:44 2023 -  Item iPhone 12 was refunded by the customer with the ID - 1
+Sat Jan 14 12:30:01 2023 -  Item iPhone 12 was refunded by the customer with the ID - 3
+Sat Jan 14 12:30:22 2023 -  Item iPhone 12 was refunded by the customer with the ID - 1
+Sat Jan 14 12:30:47 2023 -  Customer 1 bought item id 1
+Sat Jan 14 12:44:45 2023 -  Item edited: Garmin vivofit, ID: 20
+Sat Jan 14 12:47:32 2023 -  Item edited: iPhone 12, ID: 1
+Sat Jan 14 12:48:37 2023 -  Customer 1 bought item id 1
+Sat Jan 14 12:48:40 2023 -  Customer 1 bought item id 1
+Sat Jan 14 12:48:42 2023 -  Customer 1 bought item id 1
+Sat Jan 14 12:48:46 2023 -  Customer 2 bought item id 1
+Sat Jan 14 12:48:48 2023 -  Customer 2 bought item id 1
+Sat Jan 14 12:48:50 2023 -  Customer 2 bought item id 1
+Sat Jan 14 12:48:57 2023 -  Customer 3 bought item id 1
+Sat Jan 14 12:50:38 2023 -  Customer 1 bought item id 1
+Sat Jan 14 12:50:40 2023 -  Customer 1 bought item id 1
+Sat Jan 14 12:50:41 2023 -  Customer 1 bought item id 1
+Sat Jan 14 12:50:46 2023 -  Customer 2 bought item id 1
+Sat Jan 14 12:50:48 2023 -  Customer 2 bought item id 1
+Sat Jan 14 12:50:50 2023 -  Customer 2 bought item id 1
+Sat Jan 14 12:50:54 2023 -  Customer 3 bought item id 1
+Sat Jan 14 12:50:58 2023 -  Customer 3 bought item id 1
+Sat Jan 14 12:51:00 2023 -  Customer 3 bought item id 1
+Sun Jan 15 21:05:15 2023 -  Employee edited: ori
+Sun Jan 15 21:39:36 2023 -  New employee added: tal
+Sun Jan 15 21:41:07 2023 -  Item iPhone 12 was refunded by the customer with the ID - 1
+Sun Jan 15 21:41:16 2023 -  Customer 1 bought item id 21
+Sun Jan 15 21:42:40 2023 -  New item added: iPhone 14 Pro Max, amount: 20
+Sun Jan 15 21:43:50 2023 -  New item added: Xiaomi Office Lamp With App ContLamps, amount: 5
+Sun Jan 15 21:45:14 2023 -  New item added: Apple Pencil Gen2, amount: 15
+Tue Jan 17 19:05:45 2023 -  New employee added: haim
+Tue Jan 17 19:09:26 2023 -  Customer added
+Tue Jan 17 19:10:54 2023 -  Customer 1 bought item id 25
+Tue Jan 17 19:49:18 2023 -  Customer added
+Tue Jan 17 19:49:19 2023 -  Customer 1 bought item id 1
+Tue Jan 17 19:56:42 2023 -  Customer added
+Tue Jan 17 19:57:45 2023 -  Customer added
+Tue Jan 17 19:57:58 2023 -  Customer 2 bought item id 24
+Tue Jan 17 19:58:46 2023 -  Customer added
+Tue Jan 17 19:58:47 2023 -  Customer 3 bought item id 4
+Tue Jan 17 19:59:36 2023 -  Customer added
+Tue Jan 17 19:59:39 2023 -  Customer 4 bought item id 6
+Tue Jan 17 20:00:18 2023 -  Customer added
+Tue Jan 17 20:00:20 2023 -  Customer 5 bought item id 8
+Tue Jan 17 20:00:56 2023 -  Customer added
+Tue Jan 17 20:00:59 2023 -  Customer 6 bought item id 14
+Tue Jan 17 20:01:47 2023 -  Customer added
+Tue Jan 17 20:01:50 2023 -  Customer 7 bought item id 16
+Tue Jan 17 20:02:40 2023 -  Customer added
+Tue Jan 17 20:02:47 2023 -  Customer 8 bought item id 1
+Tue Jan 17 20:02:58 2023 -  Customer 6 bought item id 8
+Tue Jan 17 20:03:42 2023 -  Customer added
+Tue Jan 17 20:03:49 2023 -  Customer 7 bought item id 19
+Tue Jan 17 20:05:27 2023 -  Customer added
+Tue Jan 17 20:05:33 2023 -  Customer 8 bought item id 17
+Tue Jan 17 20:07:01 2023 -  Customer added
+Tue Jan 17 20:07:06 2023 -  Customer 9 bought item id 10
+Tue Jan 17 20:08:56 2023 -  Customer added
+Tue Jan 17 20:09:05 2023 -  Customer 10 bought item id 24
+Tue Jan 17 20:12:44 2023 -  New employee added: neta
